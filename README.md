@@ -1,4 +1,4 @@
-# VRV Security’s # Assignment
+# VRV Security’s Assignment
 
 # Objective: Writing a python script that process log files to extract and analyze key information.  
 
